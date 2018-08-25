@@ -12,4 +12,3 @@ class Test():
         pass
 
 print("TEST")
-
